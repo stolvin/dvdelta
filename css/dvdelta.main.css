@@ -47,7 +47,7 @@ h2 {
 	font-weight: 700;
 	text-transform: uppercase;
 	text-align: center;
-	background: url(/i/h2_underline.png) no-repeat center bottom;
+	background: url(../i/h2_underline.png) no-repeat center bottom;
 }
 /*h2::before {
 	content: "";
@@ -185,7 +185,7 @@ header {
 	width: 28px;
 	height: 21px;
 	outline: none;
-	background: transparent url(/i/header_menu_icon.png) no-repeat;
+	background: transparent url(../i/header_menu_icon.png) no-repeat;
 	border: none;
 	/*font-size: 21px;*/
 	margin-top: 19px;
@@ -196,7 +196,7 @@ header {
 	height: 620px;
 	padding: 0;
 	/*margin-top: -150px;*/
-	background: rgba(137,184,121,0.7) url(/i/banner_bg.jpg) no-repeat center;
+	background: rgba(137,184,121,0.7) url(../i/banner_bg.jpg) no-repeat center;
 	background-size: cover;
 }
 .banner__title {
@@ -360,14 +360,14 @@ header {
 	transition: background-color 0.3s ease;
 }
 .gallery__item a:hover::after {
-	background: rgba(137,184,121,0.7) url(/i/gallery_zoom.png) no-repeat center;
+	background: rgba(137,184,121,0.7) url(../i/gallery_zoom.png) no-repeat center;
 }
 
 /* Advantages
 ==================================================*/
 .advantages {
 	/*position: relative;*/
-	background: rgba(137,184,121,0.7) url(/i/advantages_bg.jpg) no-repeat center;
+	background: rgba(137,184,121,0.7) url(../i/advantages_bg.jpg) no-repeat center;
 	background-size: cover;
 	padding-bottom: 70px;
 	/*background-color: #d5e6cd;*/
@@ -393,7 +393,7 @@ header {
 	color: #366124;
 	font-weight: 600;
 	text-transform: uppercase;
-	background: url(/i/advantages_icon.png) no-repeat;
+	background: url(../i/advantages_icon.png) no-repeat;
 }
 
 
@@ -471,7 +471,7 @@ header {
 	display: inline-block;
 	width: 25px;
 	height: 46px;
-	background-image: url(/i/arrows.png);
+	background-image: url(../i/arrows.png);
 }
 .reviews__next {
 	background-position: right;
@@ -527,13 +527,13 @@ header {
 	list-style: none;
 }
 .contacts__address {
-	background: url(/i/contacts_address_icon.png) no-repeat 0 0;
+	background: url(../i/contacts_address_icon.png) no-repeat 0 0;
 }
 .contacts__phone {
-	background: url(/i/contacts_phone_icon.png) no-repeat 0 0;
+	background: url(../i/contacts_phone_icon.png) no-repeat 0 0;
 }
 .contacts__email {
-	background: url(/i/contacts_email_icon.png) no-repeat 0 3px;
+	background: url(../i/contacts_email_icon.png) no-repeat 0 3px;
 }
 
 /* Footer
@@ -556,7 +556,7 @@ footer {
 	text-align: left;
 	font-size: 14px;
 	color: #a0a0a0;
-	background: url(/i/footer_logo.png) no-repeat;
+	background: url(../i/footer_logo.png) no-repeat;
 }
 .footer__action {
 	height: 80px;
