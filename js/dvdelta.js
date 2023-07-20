@@ -117,7 +117,7 @@ DG.then(function () {
 		scrollWheelZoom: false	
 	});
 	var deltaIcon = DG.icon({
-		iconUrl: "/i/map_icon.png",
+		iconUrl: "./../i/map_icon.png",
 		iconSize: [32, 46],
 		iconAnchor: [16, 46]
 	});
